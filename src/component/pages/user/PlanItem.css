@@ -1,0 +1,24 @@
+.plan-form-button {
+    display: flex;
+    justify-content: flex-end;
+    margin: 5px 0px 5px 0px;
+}
+.plan-form {
+    margin: 0px 0px 5px 0px;
+}
+.plan-form-content{
+    margin: 5px 0px 5px 0px;
+}
+
+.plan-form-date {
+    margin-right: 10px;
+}
+
+.plan-form-button-i {
+    margin-left: 10px;
+}
+
+.plan-form-item {
+    margin: 5px 10px 0px 0px;
+    width: 150px;
+}

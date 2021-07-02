@@ -1,0 +1,19 @@
+.navbar {
+    /* width: 100px; */
+    height: 100%;
+    float: left;
+    padding: 0px 0px 0px 10px  
+  }
+
+  .antd-menu-custom {
+    height: inherit;
+  }
+    
+  a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:visited{
+    color: black;
+  }

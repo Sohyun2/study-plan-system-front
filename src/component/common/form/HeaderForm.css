@@ -1,0 +1,14 @@
+.header {
+    border-bottom: 1px solid #f0f0f0;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-title {
+    font-family: fantasy;
+}
+
+.header-button {
+    margin: 20px 10px 0px 10px;
+}
