@@ -17,6 +17,7 @@ function App() {
         <Route path="/plan" component={Plan}/>
         <Route path="/planList" component={PlanList}/>
         <Route path="/" component={Home}/>
+        {/* new branch test */}
       </Switch>
     </div>
 
